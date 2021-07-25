@@ -1,0 +1,10 @@
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\obj\Debug\WFpicturebox.csproj.AssemblyReference.cache
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\obj\Debug\WFpicturebox.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\obj\Debug\WFpicturebox.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\bin\Debug\WFpicturebox.exe.config
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\bin\Debug\WFpicturebox.exe
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\bin\Debug\WFpicturebox.pdb
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\obj\Debug\WFpicturebox.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\obj\Debug\WFpicturebox.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\obj\Debug\WFpicturebox.exe
+D:\Csharp\Winform\WinFormsTEST\WFpicturebox\obj\Debug\WFpicturebox.pdb

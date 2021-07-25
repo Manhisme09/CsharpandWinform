@@ -1,0 +1,11 @@
+D:\Csharp\Winform\WinFormsTEST\WFButton\bin\Debug\WFButton.exe.config
+D:\Csharp\Winform\WinFormsTEST\WFButton\bin\Debug\WFButton.exe
+D:\Csharp\Winform\WinFormsTEST\WFButton\bin\Debug\WFButton.pdb
+D:\Csharp\Winform\WinFormsTEST\WFButton\obj\Debug\WFButton.csproj.AssemblyReference.cache
+D:\Csharp\Winform\WinFormsTEST\WFButton\obj\Debug\WFButton.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\WFButton\obj\Debug\WFButton.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\WFButton\obj\Debug\WFButton.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\WFButton\obj\Debug\WFButton.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\WFButton\obj\Debug\WFButton.exe
+D:\Csharp\Winform\WinFormsTEST\WFButton\obj\Debug\WFButton.pdb
+D:\Csharp\Winform\WinFormsTEST\WFButton\obj\Debug\WFButton.checkbox.resources

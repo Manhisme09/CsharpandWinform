@@ -1,0 +1,10 @@
+D:\Csharp\Winform\WinFormsTEST\WFTimer\bin\Debug\WFTimer.exe.config
+D:\Csharp\Winform\WinFormsTEST\WFTimer\bin\Debug\WFTimer.exe
+D:\Csharp\Winform\WinFormsTEST\WFTimer\bin\Debug\WFTimer.pdb
+D:\Csharp\Winform\WinFormsTEST\WFTimer\obj\Debug\WFTimer.csproj.AssemblyReference.cache
+D:\Csharp\Winform\WinFormsTEST\WFTimer\obj\Debug\WFTimer.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\WFTimer\obj\Debug\WFTimer.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\WFTimer\obj\Debug\WFTimer.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\WFTimer\obj\Debug\WFTimer.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\WFTimer\obj\Debug\WFTimer.exe
+D:\Csharp\Winform\WinFormsTEST\WFTimer\obj\Debug\WFTimer.pdb

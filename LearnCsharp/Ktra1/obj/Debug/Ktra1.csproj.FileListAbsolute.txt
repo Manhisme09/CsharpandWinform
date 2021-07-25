@@ -1,0 +1,7 @@
+D:\Csharp\LearnCsharp\Ktra1\bin\Debug\Ktra1.exe.config
+D:\Csharp\LearnCsharp\Ktra1\bin\Debug\Ktra1.exe
+D:\Csharp\LearnCsharp\Ktra1\bin\Debug\Ktra1.pdb
+D:\Csharp\LearnCsharp\Ktra1\obj\Debug\Ktra1.csproj.AssemblyReference.cache
+D:\Csharp\LearnCsharp\Ktra1\obj\Debug\Ktra1.csproj.CoreCompileInputs.cache
+D:\Csharp\LearnCsharp\Ktra1\obj\Debug\Ktra1.exe
+D:\Csharp\LearnCsharp\Ktra1\obj\Debug\Ktra1.pdb

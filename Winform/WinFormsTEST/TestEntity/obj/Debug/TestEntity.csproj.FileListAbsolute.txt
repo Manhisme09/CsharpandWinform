@@ -1,0 +1,15 @@
+D:\Csharp\Winform\WinFormsTEST\TestEntity\obj\Debug\TestEntity.csproj.AssemblyReference.cache
+D:\Csharp\Winform\WinFormsTEST\TestEntity\obj\Debug\TestEntity.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\TestEntity\obj\Debug\TestEntity.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\TestEntity\obj\Debug\TestEntity.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\TestEntity\obj\Debug\TestEntity.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\TestEntity\bin\Debug\TestEntity.exe.config
+D:\Csharp\Winform\WinFormsTEST\TestEntity\bin\Debug\TestEntity.exe
+D:\Csharp\Winform\WinFormsTEST\TestEntity\bin\Debug\TestEntity.pdb
+D:\Csharp\Winform\WinFormsTEST\TestEntity\bin\Debug\EntityFramework.dll
+D:\Csharp\Winform\WinFormsTEST\TestEntity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Csharp\Winform\WinFormsTEST\TestEntity\bin\Debug\EntityFramework.xml
+D:\Csharp\Winform\WinFormsTEST\TestEntity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Csharp\Winform\WinFormsTEST\TestEntity\obj\Debug\TestEntity.csproj.CopyComplete
+D:\Csharp\Winform\WinFormsTEST\TestEntity\obj\Debug\TestEntity.exe
+D:\Csharp\Winform\WinFormsTEST\TestEntity\obj\Debug\TestEntity.pdb

@@ -1,0 +1,11 @@
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\bin\Debug\WFtextbox.exe.config
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\bin\Debug\WFtextbox.exe
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\bin\Debug\WFtextbox.pdb
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\obj\Debug\WFtextbox.csproj.AssemblyReference.cache
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\obj\Debug\WFtextbox.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\obj\Debug\WFtextbox.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\obj\Debug\WFtextbox.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\obj\Debug\WFtextbox.exe
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\obj\Debug\WFtextbox.pdb
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\obj\Debug\WFtextbox.textbox.resources
+D:\Csharp\Winform\WinFormsTEST\WFtextbox\obj\Debug\WFtextbox.checkbox.resources

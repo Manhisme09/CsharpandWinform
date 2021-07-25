@@ -1,0 +1,10 @@
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\bin\Debug\WFradiobutton.exe.config
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\bin\Debug\WFradiobutton.exe
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\bin\Debug\WFradiobutton.pdb
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\obj\Debug\WFradiobutton.csproj.AssemblyReference.cache
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\obj\Debug\WFradiobutton.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\obj\Debug\WFradiobutton.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\obj\Debug\WFradiobutton.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\obj\Debug\WFradiobutton.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\obj\Debug\WFradiobutton.exe
+D:\Csharp\Winform\WinFormsTEST\WFradiobutton\obj\Debug\WFradiobutton.pdb

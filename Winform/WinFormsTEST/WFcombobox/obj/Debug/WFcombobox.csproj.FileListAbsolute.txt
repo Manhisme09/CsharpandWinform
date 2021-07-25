@@ -1,0 +1,10 @@
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\bin\Debug\WFcombobox.exe.config
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\bin\Debug\WFcombobox.exe
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\bin\Debug\WFcombobox.pdb
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\obj\Debug\WFcombobox.csproj.AssemblyReference.cache
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\obj\Debug\WFcombobox.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\obj\Debug\WFcombobox.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\obj\Debug\WFcombobox.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\obj\Debug\WFcombobox.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\obj\Debug\WFcombobox.exe
+D:\Csharp\Winform\WinFormsTEST\WFcombobox\obj\Debug\WFcombobox.pdb

@@ -1,0 +1,13 @@
+D:\Csharp\LearnCsharp\CsharpHieu\bin\Debug\netcoreapp3.1\CsharpHieu.exe
+D:\Csharp\LearnCsharp\CsharpHieu\bin\Debug\netcoreapp3.1\CsharpHieu.deps.json
+D:\Csharp\LearnCsharp\CsharpHieu\bin\Debug\netcoreapp3.1\CsharpHieu.runtimeconfig.json
+D:\Csharp\LearnCsharp\CsharpHieu\bin\Debug\netcoreapp3.1\CsharpHieu.runtimeconfig.dev.json
+D:\Csharp\LearnCsharp\CsharpHieu\bin\Debug\netcoreapp3.1\CsharpHieu.dll
+D:\Csharp\LearnCsharp\CsharpHieu\bin\Debug\netcoreapp3.1\CsharpHieu.pdb
+D:\Csharp\LearnCsharp\CsharpHieu\obj\Debug\netcoreapp3.1\CsharpHieu.csproj.AssemblyReference.cache
+D:\Csharp\LearnCsharp\CsharpHieu\obj\Debug\netcoreapp3.1\CsharpHieu.AssemblyInfoInputs.cache
+D:\Csharp\LearnCsharp\CsharpHieu\obj\Debug\netcoreapp3.1\CsharpHieu.AssemblyInfo.cs
+D:\Csharp\LearnCsharp\CsharpHieu\obj\Debug\netcoreapp3.1\CsharpHieu.csproj.CoreCompileInputs.cache
+D:\Csharp\LearnCsharp\CsharpHieu\obj\Debug\netcoreapp3.1\CsharpHieu.dll
+D:\Csharp\LearnCsharp\CsharpHieu\obj\Debug\netcoreapp3.1\CsharpHieu.pdb
+D:\Csharp\LearnCsharp\CsharpHieu\obj\Debug\netcoreapp3.1\CsharpHieu.genruntimeconfig.cache

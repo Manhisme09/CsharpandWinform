@@ -1,0 +1,7 @@
+D:\Csharp\LearnCsharp\OOP2\obj\Debug\OOP2.csproj.AssemblyReference.cache
+D:\Csharp\LearnCsharp\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+D:\Csharp\LearnCsharp\OOP2\bin\Debug\OOP2.exe.config
+D:\Csharp\LearnCsharp\OOP2\bin\Debug\OOP2.exe
+D:\Csharp\LearnCsharp\OOP2\bin\Debug\OOP2.pdb
+D:\Csharp\LearnCsharp\OOP2\obj\Debug\OOP2.exe
+D:\Csharp\LearnCsharp\OOP2\obj\Debug\OOP2.pdb

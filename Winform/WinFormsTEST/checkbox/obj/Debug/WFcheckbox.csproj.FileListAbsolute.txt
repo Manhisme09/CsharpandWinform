@@ -1,0 +1,9 @@
+D:\Csharp\Winform\WinFormsTEST\checkbox\bin\Debug\checkbox.exe.config
+D:\Csharp\Winform\WinFormsTEST\checkbox\bin\Debug\checkbox.exe
+D:\Csharp\Winform\WinFormsTEST\checkbox\bin\Debug\checkbox.pdb
+D:\Csharp\Winform\WinFormsTEST\checkbox\obj\Debug\checkbox.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\checkbox\obj\Debug\checkbox.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\checkbox\obj\Debug\WFcheckbox.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\checkbox\obj\Debug\WFcheckbox.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\checkbox\obj\Debug\checkbox.exe
+D:\Csharp\Winform\WinFormsTEST\checkbox\obj\Debug\checkbox.pdb

@@ -1,0 +1,10 @@
+D:\Csharp\Winform\WinFormsTEST\winform1\bin\Debug\winform1.exe.config
+D:\Csharp\Winform\WinFormsTEST\winform1\bin\Debug\winform1.exe
+D:\Csharp\Winform\WinFormsTEST\winform1\bin\Debug\winform1.pdb
+D:\Csharp\Winform\WinFormsTEST\winform1\obj\Debug\winform1.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\winform1\obj\Debug\winform1.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\winform1\obj\Debug\winform1.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\winform1\obj\Debug\winform1.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\winform1\obj\Debug\winform1.exe
+D:\Csharp\Winform\WinFormsTEST\winform1\obj\Debug\winform1.pdb
+D:\Csharp\Winform\WinFormsTEST\winform1\obj\Debug\winform1.Form2.resources

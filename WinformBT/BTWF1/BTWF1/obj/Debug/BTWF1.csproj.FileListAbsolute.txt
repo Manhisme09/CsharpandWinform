@@ -1,0 +1,10 @@
+D:\Csharp\WinformBT\BTWF1\BTWF1\bin\Debug\BTWF1.exe.config
+D:\Csharp\WinformBT\BTWF1\BTWF1\bin\Debug\BTWF1.exe
+D:\Csharp\WinformBT\BTWF1\BTWF1\bin\Debug\BTWF1.pdb
+D:\Csharp\WinformBT\BTWF1\BTWF1\obj\Debug\BTWF1.csproj.AssemblyReference.cache
+D:\Csharp\WinformBT\BTWF1\BTWF1\obj\Debug\BTWF1.Form1.resources
+D:\Csharp\WinformBT\BTWF1\BTWF1\obj\Debug\BTWF1.Properties.Resources.resources
+D:\Csharp\WinformBT\BTWF1\BTWF1\obj\Debug\BTWF1.csproj.GenerateResource.cache
+D:\Csharp\WinformBT\BTWF1\BTWF1\obj\Debug\BTWF1.csproj.CoreCompileInputs.cache
+D:\Csharp\WinformBT\BTWF1\BTWF1\obj\Debug\BTWF1.exe
+D:\Csharp\WinformBT\BTWF1\BTWF1\obj\Debug\BTWF1.pdb

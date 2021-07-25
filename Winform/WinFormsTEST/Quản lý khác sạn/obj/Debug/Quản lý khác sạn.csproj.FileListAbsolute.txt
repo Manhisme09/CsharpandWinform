@@ -1,0 +1,16 @@
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\bin\Debug\Quản lý khác sạn.exe.config
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\bin\Debug\Quản lý khác sạn.exe
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\bin\Debug\Quản lý khác sạn.pdb
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản lý khác sạn.csproj.AssemblyReference.cache
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản_lý_khác_sạn.Form1.resources
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản_lý_khác_sạn.Properties.Resources.resources
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản lý khác sạn.csproj.GenerateResource.cache
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản lý khác sạn.csproj.CoreCompileInputs.cache
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản lý khác sạn.exe
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản lý khác sạn.pdb
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\bin\Debug\EntityFramework.dll
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\bin\Debug\EntityFramework.SqlServer.dll
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\bin\Debug\EntityFramework.xml
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\bin\Debug\EntityFramework.SqlServer.xml
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản lý khác sạn.csproj.CopyComplete
+D:\Csharp\Winform\WinFormsTEST\Quản lý khác sạn\obj\Debug\Quản_lý_khác_sạn.Login.resources

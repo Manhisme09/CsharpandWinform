@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLNVModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="chucvu">
+    <Key>
+      <PropertyRef Name="macv" />
+    </Key>
+    <Property Name="macv" Type="nvarchar" MaxLength="2" Nullable="false" />
+    <Property Name="tencv" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="nhanvien">
+    <Key>
+      <PropertyRef Name="manv" />
+    </Key>
+    <Property Name="manv" Type="nvarchar" MaxLength="4" Nullable="false" />
+    <Property Name="macv" Type="nvarchar" MaxLength="2" />
+    <Property Name="tennv" Type="nvarchar" MaxLength="30" />
+    <Property Name="luong" Type="float" />
+    <Property Name="tinhtrang" Type="nvarchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK_nhanvien_chucvu">
+    <End Role="chucvu" Type="Self.chucvu" Multiplicity="0..1" />
+    <End Role="nhanvien" Type="Self.nhanvien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="chucvu">
+        <PropertyRef Name="macv" />
+      </Principal>
+      <Dependent Role="nhanvien">
+        <PropertyRef Name="macv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLNVModelStoreContainer">
+    <EntitySet Name="chucvu" EntityType="Self.chucvu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="nhanvien" EntityType="Self.nhanvien" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_nhanvien_chucvu" Association="Self.FK_nhanvien_chucvu">
+      <End Role="chucvu" EntitySet="chucvu" />
+      <End Role="nhanvien" EntitySet="nhanvien" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

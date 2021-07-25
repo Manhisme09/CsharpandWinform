@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLNVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="chucvu">
+    <Key>
+      <PropertyRef Name="macv" />
+    </Key>
+    <Property Name="macv" Type="String" MaxLength="2" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="tencv" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="nhanviens" Relationship="Self.FK_nhanvien_chucvu" FromRole="chucvu" ToRole="nhanvien" />
+  </EntityType>
+  <EntityType Name="nhanvien">
+    <Key>
+      <PropertyRef Name="manv" />
+    </Key>
+    <Property Name="manv" Type="String" MaxLength="4" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="macv" Type="String" MaxLength="2" FixedLength="false" Unicode="true" />
+    <Property Name="tennv" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="luong" Type="Double" />
+    <Property Name="tinhtrang" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="chucvu" Relationship="Self.FK_nhanvien_chucvu" FromRole="nhanvien" ToRole="chucvu" />
+  </EntityType>
+  <Association Name="FK_nhanvien_chucvu">
+    <End Role="chucvu" Type="Self.chucvu" Multiplicity="0..1" />
+    <End Role="nhanvien" Type="Self.nhanvien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="chucvu">
+        <PropertyRef Name="macv" />
+      </Principal>
+      <Dependent Role="nhanvien">
+        <PropertyRef Name="macv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLNVEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="chucvus" EntityType="Self.chucvu" />
+    <EntitySet Name="nhanviens" EntityType="Self.nhanvien" />
+    <AssociationSet Name="FK_nhanvien_chucvu" Association="Self.FK_nhanvien_chucvu">
+      <End Role="chucvu" EntitySet="chucvus" />
+      <End Role="nhanvien" EntitySet="nhanviens" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,7 @@
+D:\Csharp\Csharpbt2\Baitap\bin\Debug\Baitap.exe.config
+D:\Csharp\Csharpbt2\Baitap\bin\Debug\Baitap.exe
+D:\Csharp\Csharpbt2\Baitap\bin\Debug\Baitap.pdb
+D:\Csharp\Csharpbt2\Baitap\obj\Debug\Baitap.csproj.AssemblyReference.cache
+D:\Csharp\Csharpbt2\Baitap\obj\Debug\Baitap.csproj.CoreCompileInputs.cache
+D:\Csharp\Csharpbt2\Baitap\obj\Debug\Baitap.exe
+D:\Csharp\Csharpbt2\Baitap\obj\Debug\Baitap.pdb
